@@ -1,0 +1,16 @@
+{
+    "fonts": [
+        {
+            "aifont": "Raleway-ExtraBold",
+            "family": "Raleway",
+            "weight": "800",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "600",
+            "style": ""
+        }
+    ]
+}
