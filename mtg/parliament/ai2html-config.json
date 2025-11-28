@@ -11,6 +11,48 @@
             "family": "Raleway",
             "weight": "600",
             "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "100",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "200",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "300",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "500",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-SemiBold",
+            "family": "Raleway",
+            "weight": "900",
+            "style": ""
         }
     ]
 }
