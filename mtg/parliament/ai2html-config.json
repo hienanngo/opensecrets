@@ -1,9 +1,33 @@
 {
     "fonts": [
         {
-            "aifont": "Raleway-ExtraBold",
+            "aifont": "Raleway-Thin",
             "family": "Raleway",
-            "weight": "800",
+            "weight": "100",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-ExtraLight",
+            "family": "Raleway",
+            "weight": "200",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-Light",
+            "family": "Raleway",
+            "weight": "300",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-Regular",
+            "family": "Raleway",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-Medium",
+            "family": "Raleway",
+            "weight": "500",
             "style": ""
         },
         {
@@ -13,43 +37,19 @@
             "style": ""
         },
         {
-            "aifont": "Raleway-SemiBold",
-            "family": "Raleway",
-            "weight": "100",
-            "style": ""
-        },
-        {
-            "aifont": "Raleway-SemiBold",
-            "family": "Raleway",
-            "weight": "200",
-            "style": ""
-        },
-        {
-            "aifont": "Raleway-SemiBold",
-            "family": "Raleway",
-            "weight": "300",
-            "style": ""
-        },
-        {
-            "aifont": "Raleway-SemiBold",
-            "family": "Raleway",
-            "weight": "400",
-            "style": ""
-        },
-        {
-            "aifont": "Raleway-SemiBold",
-            "family": "Raleway",
-            "weight": "500",
-            "style": ""
-        },
-        {
-            "aifont": "Raleway-SemiBold",
+            "aifont": "Raleway-Bold",
             "family": "Raleway",
             "weight": "700",
             "style": ""
         },
         {
-            "aifont": "Raleway-SemiBold",
+            "aifont": "Raleway-ExtraBold",
+            "family": "Raleway",
+            "weight": "800",
+            "style": ""
+        },
+        {
+            "aifont": "Raleway-Black",
             "family": "Raleway",
             "weight": "900",
             "style": ""
